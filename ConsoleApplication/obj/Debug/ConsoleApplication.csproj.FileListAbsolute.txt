@@ -1,0 +1,14 @@
+C:\Users\Amy\documents\visual studio 2015\Projects\FEI\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\Users\Amy\documents\visual studio 2015\Projects\FEI\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Users\Amy\documents\visual studio 2015\Projects\FEI\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Users\Amy\documents\visual studio 2015\Projects\FEI\ConsoleApplication\bin\Debug\DataAccess.dll
+C:\Users\Amy\documents\visual studio 2015\Projects\FEI\ConsoleApplication\bin\Debug\Model.dll
+C:\Users\Amy\documents\visual studio 2015\Projects\FEI\ConsoleApplication\bin\Debug\EntityFramework.dll
+C:\Users\Amy\documents\visual studio 2015\Projects\FEI\ConsoleApplication\bin\Debug\DataAccess.pdb
+C:\Users\Amy\documents\visual studio 2015\Projects\FEI\ConsoleApplication\bin\Debug\Model.pdb
+C:\Users\Amy\documents\visual studio 2015\Projects\FEI\ConsoleApplication\bin\Debug\EntityFramework.xml
+C:\Users\Amy\documents\visual studio 2015\Projects\FEI\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\Amy\documents\visual studio 2015\Projects\FEI\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Users\Amy\documents\visual studio 2015\Projects\FEI\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+C:\Users\Amy\documents\visual studio 2015\Projects\FEI\ConsoleApplication\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Amy\documents\visual studio 2015\Projects\FEI\ConsoleApplication\bin\Debug\EntityFramework.SqlServer.xml

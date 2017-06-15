@@ -1,0 +1,15 @@
+C:\Users\Amy\documents\visual studio 2015\Projects\FEI\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Amy\documents\visual studio 2015\Projects\FEI\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\Amy\documents\visual studio 2015\Projects\FEI\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\Amy\documents\visual studio 2015\Projects\FEI\UnitTest\bin\Debug\DataAccess.dll
+C:\Users\Amy\documents\visual studio 2015\Projects\FEI\UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Amy\documents\visual studio 2015\Projects\FEI\UnitTest\bin\Debug\Model.dll
+C:\Users\Amy\documents\visual studio 2015\Projects\FEI\UnitTest\bin\Debug\EntityFramework.dll
+C:\Users\Amy\documents\visual studio 2015\Projects\FEI\UnitTest\bin\Debug\DataAccess.pdb
+C:\Users\Amy\documents\visual studio 2015\Projects\FEI\UnitTest\bin\Debug\Model.pdb
+C:\Users\Amy\documents\visual studio 2015\Projects\FEI\UnitTest\bin\Debug\EntityFramework.xml
+C:\Users\Amy\documents\visual studio 2015\Projects\FEI\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\Amy\documents\visual studio 2015\Projects\FEI\UnitTest\obj\Debug\UnitTest.pdb
+C:\Users\Amy\documents\visual studio 2015\Projects\FEI\UnitTest\bin\Debug\UnitTest.dll.config
+C:\Users\Amy\documents\visual studio 2015\Projects\FEI\UnitTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Amy\documents\visual studio 2015\Projects\FEI\UnitTest\bin\Debug\EntityFramework.SqlServer.xml

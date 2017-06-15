@@ -1,0 +1,10 @@
+C:\Users\Amy\documents\visual studio 2015\Projects\FEI\Model\bin\Debug\Model.dll.config
+C:\Users\Amy\documents\visual studio 2015\Projects\FEI\Model\bin\Debug\Model.dll
+C:\Users\Amy\documents\visual studio 2015\Projects\FEI\Model\bin\Debug\Model.pdb
+C:\Users\Amy\documents\visual studio 2015\Projects\FEI\Model\bin\Debug\EntityFramework.dll
+C:\Users\Amy\documents\visual studio 2015\Projects\FEI\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Amy\documents\visual studio 2015\Projects\FEI\Model\bin\Debug\EntityFramework.xml
+C:\Users\Amy\documents\visual studio 2015\Projects\FEI\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Amy\documents\visual studio 2015\Projects\FEI\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Amy\documents\visual studio 2015\Projects\FEI\Model\obj\Debug\Model.dll
+C:\Users\Amy\documents\visual studio 2015\Projects\FEI\Model\obj\Debug\Model.pdb
